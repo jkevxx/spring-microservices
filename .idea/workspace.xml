@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb69f20d-a1af-47f2-9ea0-a98eaf22f5bf" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jza0XrZOar4CKmagdeqWFqLPAU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Config.executor": "Run",
+    "Application.Courses.executor": "Run",
+    "Application.Eureka.executor": "Run",
+    "Application.Gateway.executor": "Run",
+    "Application.Student.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ken00/Documents/dev/back/java/microservices/spring-microservices/microservice-course",
+    "settings.editor.selected.configurable": "editor.breadcrumbs"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ken00\Documents\dev\back\java\microservices\spring-microservices\microservice-course" />
+      <recent name="C:\Users\ken00\Documents\dev\back\java\microservices\spring-microservices\microservice-course\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Gateway">
+    <configuration name="Config" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.config.MicroserviceConfigApplication" />
+      <module name="microservice-config" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Courses" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.course.MicroserviceCourseApplication" />
+      <module name="microservice-course" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.eureka.MicroserviceEurekaApplication" />
+      <module name="microservice-eureka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Gateway" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.gateway.MicroserviceGatewayApplication" />
+      <module name="microservice-gateway" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.microservice.student.MicroserviceStudentApplication" />
+      <module name="microservice-student" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Eureka" />
+      <item itemvalue="Application.Student" />
+      <item itemvalue="Application.Courses" />
+      <item itemvalue="Application.Config" />
+      <item itemvalue="Application.Gateway" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb69f20d-a1af-47f2-9ea0-a98eaf22f5bf" name="Changes" comment="" />
+      <created>1722392137077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722392137077</updated>
+    </task>
+    <servers />
+  </component>
+</project>
